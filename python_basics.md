@@ -19,7 +19,16 @@ for i in range(5):
  Pass - The pass statement does nothing
 
  6) Class glues functions to a container.
- __new__ is called before __init__ to carve out space in the computer's memory and create the empty object.
+
+ _ \_new_ _ is called before _ \_init_ _ to carve out space in the computer's memory and create the empty object.
+
  Inheritance - from parent class
+
  Polymorphism - different apps trying to start application
- 
+
+ put double underscores before any variable to make it private.
+
+ getter and setter can be used to control accessing private variables.  This concept of using getters/setters to protect 
+ private data is called Encapsulation.
+
+ Abstraction - You click a button that says "Place Order". You don't need to know how the app's servers talk to the restaurant's kitchen, how the credit card network processes the transaction, or how the GPS routes the delivery driver. All that massive complexity is hidden behind a single button. That is Abstraction
