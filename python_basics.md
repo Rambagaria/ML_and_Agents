@@ -26,9 +26,16 @@ for i in range(5):
 
  Polymorphism - different apps trying to start application
 
- put double underscores before any variable to make it private.
+ put double _ _  before any variable to make it private and single _ to make it protected.
 
  getter and setter can be used to control accessing private variables.  This concept of using getters/setters to protect 
  private data is called Encapsulation.
 
  Abstraction - You click a button that says "Place Order". You don't need to know how the app's servers talk to the restaurant's kitchen, how the credit card network processes the transaction, or how the GPS routes the delivery driver. All that massive complexity is hidden behind a single button. That is Abstraction
+
+ Private variables are strictly hidden from child classes, while protected variables can be accessed by child 
+ 
+ 7) try: Runs the risky code that might cause an error.
+except: Catches and handles the error if one occurs.
+else: Executes only if no exception occurs in try.
+finally: Runs regardless of what happens useful for cleanup tasks like closing files
