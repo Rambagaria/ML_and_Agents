@@ -26,3 +26,5 @@ GroupBy example - df.groupby("A")[["C", "D"]].sum()
 A Parquet file (.parquet) is an open-source, column-oriented binary file format designed for highly efficient data storage and retrieval, particularly for big data analytics.  
 
 Pivot Tables Advantage - Handle Big Data, automate repetitive reports, clean data, run statistics, and draw charts in the same place
+
+
