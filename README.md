@@ -12,7 +12,7 @@ SOLVED LEET CODE QUESTIONS:
 1378 - Replace Employee ID With The Unique Identifier  
 197 - Rising Temperature  
 577 - Employee Bonus  
-1075 - Project Employees I  
+1075 - Project Employees  
 620 - Not Boring Movies  
 178 -  Rank Scores  
 626 - Exchange Seats  
