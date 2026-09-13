@@ -42,13 +42,15 @@ p value  is a number between 0 and 1 that helps researchers determine how confid
 
 Confidence Interval - Rather than guessing a single exact number (like saying the average height is exactly 165 cm), a Confidence Interval gives us a safe range (like 160 cm to 170 cm). A 95% confidence level means that if we take 100 different samples and make an interval for each, we can expect about 95 of those 100 intervals to include the true population value.
 
+In statistics, non-parametric means that a model or test does not assume the data follows a specific probability distribution (such as a normal distribution) or depend on specific population parameters (like the mean or standard variance)
+
 Selecting the appropriate statistical test for hypothesis testing -
 
 1. One-Sample Tests (Means & Proportions): Used to compare a sample mean or proportion to a known population value. T-tests are generally preferred over Z-tests due to the assumptions made by the latter.
 
 2. Two-Sample Independent Tests: Designed for comparing two separate groups, such as a control group and a treatment group, to determine if differences in means or proportions are statistically significant.
 
-3. Matched or Paired Sample Tests: Applied when samples are dependent, typically by measuring the same group twice—for example, before and after an intervention.
+3. Matched or Paired Sample Tests: Applied when samples are dependent, typically by measuring the same group twice—for example, before and after an intervention. eg. Page load time before vs. after a code optimization, same set of pages
 
 4. Regression Tests: Used to measure the correlation or association between two quantitative variables.
 
