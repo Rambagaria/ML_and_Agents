@@ -38,7 +38,7 @@ Specific groups differ: Another alternative hypothesis might be that there is no
 
 Because the choice of alternative hypothesis can influence the outcome of statistical test and the decision regarding the null hypothesis, it is crucial to clearly state which alternative  is being tested.
 
-p value  is a number between 0 and 1 that helps researchers determine how confident they should be that the results of an experiment are significant, rather than just occurring due to random chance. The closer a p-value is to 0, the more confidence we have that the observed difference is real (statistically evient) and not random. common value is 0.05. if p value less than 0.05, reject null.
+p value  is a number between 0 and 1 that helps researchers determine how confident they should be that the results of an experiment are significant, rather than just occurring due to random chance. The closer a p-value is to 0, the more confidence we have that the observed difference is real (statistically evident) and not random. common value is 0.05. if p value less than 0.05, reject null.
 
 Confidence Interval - Rather than guessing a single exact number (like saying the average height is exactly 165 cm), a Confidence Interval gives us a safe range (like 160 cm to 170 cm). A 95% confidence level means that if we take 100 different samples and make an interval for each, we can expect about 95 of those 100 intervals to include the true population value.
 
