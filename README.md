@@ -18,3 +18,9 @@ SOLVED LEET CODE QUESTIONS:
 626 - Exchange Seats  
 
 Day 4: 
+
+Statistics
+Hypothesis Testing
+Probabilty
+Statistical Tests
+A/B Testing on Cookie Cat Dataset
