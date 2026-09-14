@@ -19,8 +19,8 @@ SOLVED LEET CODE QUESTIONS:
 
 Day 4: 
 
-Statistics
-Hypothesis Testing
-Probabilty
-Statistical Tests
-A/B Testing on Cookie Cat Dataset
+Statistics  
+Hypothesis Testing  
+Probabilty  
+Statistical Tests  
+A/B Testing on Cookie Cat Dataset  
